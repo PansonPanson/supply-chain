@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "f936e2e794a50156",
+    "type": "split",
+    "children": [
+      {
+        "id": "020e3490d559c069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaa8974252899252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "供应链子系统/智能仓储系统/重构篇/WES 重构系列（二）：领域划分之理货业务上浮.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WES 重构系列（二）：领域划分之理货业务上浮"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f3fc0eadad5227b",
+    "type": "split",
+    "children": [
+      {
+        "id": "94195663a10e9eed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee293a51134285e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8f412ee4321842c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b76568149d7e6b4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 475.5
+  },
+  "right": {
+    "id": "a9c3065263b8f534",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f2350f11a3526b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc4ac8f6fabfd0ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "供应链子系统/智能仓储系统/技术篇/数据一致性组件之前端可视化页面.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "数据一致性组件之前端可视化页面 的反向链接列表"
+            }
+          },
+          {
+            "id": "a62b74d096f9a015",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "供应链子系统/智能仓储系统/技术篇/数据一致性组件之前端可视化页面.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数据一致性组件之前端可视化页面 的出链列表"
+            }
+          },
+          {
+            "id": "d2f21244ed631f86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d712150fbc8890ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "供应链子系统/智能仓储系统/重构篇/WES 重构系列（二）：领域划分之理货业务上浮.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "WES 重构系列（二）：领域划分之理货业务上浮 的大纲"
+            }
+          },
+          {
+            "id": "73957377a4094606",
+            "type": "leaf",
+            "state": {
+              "type": "note-to-red",
+              "state": {},
+              "icon": "image",
+              "title": "小红书预览"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "note-to-red:打开小红书图片预览": false
+    }
+  },
+  "active": "aaa8974252899252",
+  "lastOpenFiles": [
+    "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（二）：领域划分之理货业务上浮/file-20251118222737042.png",
+    "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（二）：领域划分之理货业务上浮/file-20251118220914636.png",
+    "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（二）：领域划分之理货业务上浮",
+    "供应链子系统/智能仓储系统/重构篇/assets",
+    "供应链子系统/智能仓储系统/链路分析-商品是怎么理货的？.md",
+    "供应链子系统/智能仓储系统/重构篇/WES 重构系列（二）：领域划分之理货业务上浮.md",
+    "README.md",
+    "供应链子系统/智能仓储系统/重构篇",
+    "供应链子系统/智能仓储系统/技术篇/一次JVM 优化引起的日志丢失问题.md",
+    "供应链子系统/智能仓储系统/技术篇/一次线上 MySQL 死锁问题记录.md",
+    "供应链子系统/智能仓储系统/技术篇/一次上游更改接口导致的百万级数据扫描引起的宕机问题.md",
+    "供应链子系统/智能仓储系统/技术篇/一次线上 MySQL 锁超时问题记录.md",
+    "供应链子系统/智能仓储系统/技术篇/为什么要设计一个数据一致性组件.md",
+    "供应链子系统/智能仓储系统/技术篇/一次线上任务到站不弹实操问题.md",
+    "供应链子系统/智能仓储系统/技术篇/RocketMQ 事务是如何实现的？.md",
+    "供应链子系统/智能仓储系统/技术篇/如何设计一个数据一致性组件之模型设计.md",
+    "供应链子系统/智能仓储系统/技术篇/G1系列（二）—— 常用 JVM 工具篇.md",
+    "供应链子系统/智能仓储系统/技术篇/G1系列（一）—— G1 核心参数.md",
+    "供应链子系统/智能仓储系统/技术篇/assets/G1系列（一）—— G1 核心参数/file-20250922165803131.png",
+    "供应链子系统/智能仓储系统/技术篇/assets/G1系列（一）—— G1 核心参数/file-20250922164527812.png",
+    "供应链子系统/智能仓储系统/技术篇/assets/G1系列（一）—— G1 核心参数",
+    "供应链子系统/智能仓储系统/技术篇/assets",
+    "供应链子系统/智能仓储系统/技术篇/数据一致性组件之前端可视化页面.md",
+    "供应链子系统/智能仓储系统/技术篇/数据一致性组件之任务生命周期.md",
+    "供应链子系统/智能仓储系统/技术篇/数据一致性组件之自定义 Starter.md",
+    "供应链子系统/智能仓储系统/技术篇/如何设计本地消息表？.md",
+    "Excalidraw/Drawing 2025-08-12 18.17.19.excalidraw.md",
+    "Excalidraw",
+    "供应链子系统/智能仓储系统/技术篇/什么是本地消息表？.md",
+    "供应链子系统/供应链及其子系统.md",
+    "供应链文档合集/ZARA供应链管理案例分析.md",
+    "供应链博文.md",
+    "供应链书籍.md",
+    "供应链文档合集",
+    "供应链子系统/供应链博文",
+    "供应链子系统/智能仓储系统/技术篇/自己动手写动态线程池框架 02——自定义可变容量的阻塞队列.md",
+    "供应链子系统/智能仓储系统/技术篇/自己动手写动态线程池框架 03——基于线程池扩展点增加插件体系.md"
+  ]
+}
