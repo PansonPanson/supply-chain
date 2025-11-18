@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供应链子系统/智能仓储系统/重构篇/WES 重构系列（一）：记录一下 WES 重构历史.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WES 重构系列（一）：记录一下 WES 重构历史"
+              "title": "README"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供应链子系统/智能仓储系统/重构篇/WES 重构系列（一）：记录一下 WES 重构历史.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "WES 重构系列（一）：记录一下 WES 重构历史 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -181,10 +181,10 @@
       "note-to-red:打开小红书图片预览": false
     }
   },
-  "active": "aaa8974252899252",
+  "active": "ee293a51134285e0",
   "lastOpenFiles": [
-    "供应链子系统/智能仓储系统/重构篇/WES 重构系列（二）：领域划分之理货业务上浮.md",
     "供应链子系统/智能仓储系统/重构篇/WES 重构系列（一）：记录一下 WES 重构历史.md",
+    "供应链子系统/智能仓储系统/重构篇/WES 重构系列（二）：领域划分之理货业务上浮.md",
     "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（二）：领域划分之理货业务上浮/file-20251118222737042.png",
     "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（二）：领域划分之理货业务上浮/file-20251118220914636.png",
     "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（二）：领域划分之理货业务上浮",
