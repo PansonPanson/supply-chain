@@ -61,5 +61,5 @@ WES 这边涉及到的内容多一些：
 
 分层图如下：
 
-![](file-20251120003840562.png)
+![数据模型分层图](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E7%B3%BB%E7%BB%9F%E8%9E%8D%E5%90%88%E6%94%AF%E6%8C%81%E6%B7%B7%E5%9C%BA%E8%B0%83%E5%BA%A6/file-20251120003840562.png?raw=true)
 
