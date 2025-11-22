@@ -4,7 +4,7 @@
 如果想优化出库正向链路，那么首先要知道耗时在哪些地方，这样才能对症下药。
 先回顾一下出库链路图：
 
-![](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E5%87%BA%E5%BA%93%E8%B0%83%E7%94%A8%E9%93%BE%E8%B7%AF%E6%A2%B3%E7%90%86%E4%B9%8B%E6%AD%A3%E5%90%91%E9%93%BE%E8%B7%AF/file-20251122000925045.png?raw=true)
+![](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E5%87%BA%E5%BA%93%E8%B0%83%E5%BA%A6%E6%AD%A3%E5%90%91%E9%93%BE%E8%B7%AF%E6%A2%B3%E7%90%86/file-20251122000925045.png?raw=true)
 
 
 
@@ -25,7 +25,7 @@
 
 看一下热度移位前后对比图，应该比较清晰一些：
 
-![](file-20251122154308282.png)
+![](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A%E5%87%BA%E5%BA%93%E8%B0%83%E5%BA%A6%E6%AD%A3%E5%90%91%E9%93%BE%E8%B7%AF%E6%95%88%E7%8E%87%E4%BC%98%E5%8C%96/file-20251122154308282.png?raw=true)
 
 我们从图中可以看到，热度移位后，高频商品（红色部分）都移动到拣选工作站附近了。
 热度移位的目的本质是为了减少搬运时间，从而大幅提高出库效率。
@@ -39,14 +39,14 @@
 
 文字可能不太好理解，我们看张图示意图吧：
 
-![](file-20251122205831266.png)
+![](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A%E5%87%BA%E5%BA%93%E8%B0%83%E5%BA%A6%E6%AD%A3%E5%90%91%E9%93%BE%E8%B7%AF%E6%95%88%E7%8E%87%E4%BC%98%E5%8C%96/file-20251122205831266.png?raw=true)
 
 ### 2.3 FlowPick 单品单件
 我们组负责的一些日本海外仓，比如 Eqseek，单据类型比较特殊，单品单件订单占比近80%，为提高拣选效率，可以一次入站完成更多件数，提出flowpick产品化方案。
 当然国内直播电商也有类似场景，比如直播间大主播，观众下单，大多是单品单件订单。
 WES对可聚合订单做标记，交由算法组，让算法把一批订单聚合分配到同一个 flowpick 槽位中。
 这样能大幅减少WES 调度和下游搬运次数。
-![](file-20251122220042503.png)
+![](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A%E5%87%BA%E5%BA%93%E8%B0%83%E5%BA%A6%E6%AD%A3%E5%90%91%E9%93%BE%E8%B7%AF%E6%95%88%E7%8E%87%E4%BC%98%E5%8C%96/file-20251122220042503.png?raw=true)
 ### 2.4 进站提前上报
 小车搬运容器即将进入工作站时，会减速，达到指定码点后，会上报到站消息。
 WES 拿到搬运系统上报的到站消息后，会推送实操任务给 STATION。
@@ -55,14 +55,14 @@ WES 拿到搬运系统上报的到站消息后，会推送实操任务给 STATIO
 + WES 接收到站消息并推送实操任务
 这样也减少了出库链路时间。
 如下图所示：
-![](file-20251122221757555.png)
+![](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A%E5%87%BA%E5%BA%93%E8%B0%83%E5%BA%A6%E6%AD%A3%E5%90%91%E9%93%BE%E8%B7%AF%E6%95%88%E7%8E%87%E4%BC%98%E5%8C%96/file-20251122221757555.png?raw=true)
 
 ### 2.5 提前离站
 原先的流程是拣选、封箱、点击全部分播完成后车才走，但其实拣选完之后，车就可以走了。
 提前离站我们做了开关，在拣选到最大值后，车提前离站，下一个车可以直接进站。
 这样我们又减少了一部分链路耗时。
 这里我也画了一张流程图，如下所示：
-![](file-20251122222552157.png)
+![](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A%E5%87%BA%E5%BA%93%E8%B0%83%E5%BA%A6%E6%AD%A3%E5%90%91%E9%93%BE%E8%B7%AF%E6%95%88%E7%8E%87%E4%BC%98%E5%8C%96/file-20251122222552157.png?raw=true)
 
 
 
