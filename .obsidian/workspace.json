@@ -11,12 +11,14 @@
             "id": "aaa8974252899252",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（七）：关于WES 数据最终一致性组件的思考/chongshizujian.png"
+                "file": "供应链子系统/智能仓储系统/重构篇/WES 重构系列（七）：关于WES 数据最终一致性组件的思考.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "chongshizujian"
+              "icon": "lucide-file",
+              "title": "WES 重构系列（七）：关于WES 数据最终一致性组件的思考"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（七）：关于WES 数据最终一致性组件的思考/chongshizujian.png",
+                "file": "供应链子系统/智能仓储系统/重构篇/WES 重构系列（七）：关于WES 数据最终一致性组件的思考.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "chongshizujian 的大纲"
+              "title": "WES 重构系列（七）：关于WES 数据最终一致性组件的思考 的大纲"
             }
           },
           {
@@ -179,8 +181,9 @@
       "note-to-red:打开小红书图片预览": false
     }
   },
-  "active": "ee293a51134285e0",
+  "active": "aaa8974252899252",
   "lastOpenFiles": [
+    "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（七）：关于WES 数据最终一致性组件的思考/chongshizujian.png",
     "供应链子系统/智能仓储系统/重构篇/image/7/file-20251129204403321.png",
     "供应链子系统/智能仓储系统/重构篇/image/7/file-20251129204320270.png",
     "供应链子系统/智能仓储系统/重构篇/image/7/file-20251129203301152.png",
@@ -191,7 +194,6 @@
     "供应链子系统/智能仓储系统/重构篇/image/7",
     "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（七）：关于WES 数据最终一致性组件的思考/file-20251129204403321.png",
     "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（七）：关于WES 数据最终一致性组件的思考/file-20251129204320270.png",
-    "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（七）：关于WES 数据最终一致性组件的思考/chongshizujian.png",
     "供应链子系统/智能仓储系统/重构篇/assets/WES 重构系列（七）：关于WES 数据最终一致性组件的思考/file-20251129203301152.png",
     "供应链子系统/智能仓储系统/重构篇/WES 重构系列（四）：出库调度正向链路梳理.md",
     "供应链子系统/智能仓储系统/重构篇/image/4/file-20251122000925045.png",
