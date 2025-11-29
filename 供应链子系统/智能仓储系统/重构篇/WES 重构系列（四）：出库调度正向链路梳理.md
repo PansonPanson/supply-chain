@@ -5,7 +5,7 @@
 以电商履约链路为例，WES 在 WMS 的下游。
 WES 的业务链路位置大致参考下图（做了一些简化）：
 
-![](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E5%87%BA%E5%BA%93%E8%B0%83%E7%94%A8%E9%93%BE%E8%B7%AF%E6%A2%B3%E7%90%86%E4%B9%8B%E6%AD%A3%E5%90%91%E9%93%BE%E8%B7%AF/file-20251121004900019.png?raw=true)
+![](https://github.com/PansonPanson/supply-chain/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AD%90%E7%B3%BB%E7%BB%9F/%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F/%E9%87%8D%E6%9E%84%E7%AF%87/assets/WES%20%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E5%87%BA%E5%BA%93%E8%B0%83%E5%BA%A6%E6%AD%A3%E5%90%91%E9%93%BE%E8%B7%AF%E6%A2%B3%E7%90%86/file-20251121004900019.png?raw=true)
 
 那出库是什么呢？
 简单来说就是把商品（货物）从仓库里面取出来去发货。
